@@ -1,4 +1,8 @@
+val = 3
 def display_vote():
+    global val
+    val = val + 7
+    print(val)
     age = int(input("Enter your age: "))
     name = input("Enter your name: ")
     if age > 18:
