@@ -39,7 +39,9 @@ def edit_student():
     index = int(input("Enter index of the student you want to edit: "))
     key = input("Enter the key you want to edit: ")
     value = input("Enter the value for that key: ")
-    students[index][key] = value
+    std = students[index]
+    std[key] = value
+    # students[index][key] = value
     print(f"{key} changed successfully.")
     print(students)
 
