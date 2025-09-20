@@ -52,3 +52,15 @@ names_func()
 #     Post removed successfully.
 
 # Do you want to do anything else? 1. Yes 2. No.
+
+# vals = [10, 20, 30]
+
+# for a in vals:
+#     print("Hello")
+#     print("a")
+#     print("Hi")
+#     print(a)
+
+names = ["Happy", "Patience", "John"]
+for display_name in names:
+    print(f"Good morning {display_name}")
