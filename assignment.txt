@@ -1,0 +1,22 @@
+Create a post list of dictionary
+posts = []
+
+Each dictionary would contain a body and a title
+1. Add a new post
+2. View all post title
+3. Delete a post
+
+1. Add a new post
+    Enter the title of the post
+    Enter the body of the post
+    post added successfully.
+    display the posts list
+2. View all post title
+    Display the title of each post
+3. Delete a post
+    Enter the index of the post you want to delete
+    post deleted successfully
+    display the posts list
+
+Do you want to do any other thing?
+
