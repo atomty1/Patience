@@ -5,6 +5,7 @@ Each dictionary would contain a body and a title
 1. Add a new post
 2. View all post title
 3. Delete a post
+4. Edit post body
 
 1. Add a new post
     Enter the title of the post
@@ -17,6 +18,12 @@ Each dictionary would contain a body and a title
     Enter the index of the post you want to delete
     post deleted successfully
     display the posts list
+
+4. Edit post body
+    Enter the index of the post you want to edit
+    Enter the new body of the 
+    print(posts)
+
 
 Do you want to do any other thing?
 
