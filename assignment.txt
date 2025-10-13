@@ -27,3 +27,24 @@ Each dictionary would contain a body and a title
 
 Do you want to do any other thing?
 
+
+Welcome to Ify store
+
+1. To add a new product
+2. Delete a product
+3. To sum the products
+
+1.
+    Enter the name of the product - Phone
+    Enter the price of the product - 100000
+    product added successfully
+2.
+    Enter the index of  the product you want to delete
+    (The name of  the product) deleted successfully
+
+3.
+    Your total goods worth 300000
+
+    
+    
+
