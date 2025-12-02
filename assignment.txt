@@ -47,4 +47,38 @@ Welcome to Ify store
 
     
     
+Welcome to Patient College
+What do you want to do
+1. To add a new student
+2. To delete a student
+3. To get the average age of the students
+4. Print all students
+5. Get the oldest student
+
+1. firstname
+    lastname
+    age
+    
+
+2. Enter the index of the student you want to delete
+
+3. The average age of the students is 20.8 years old
+
+4. Print all students
+
+1. Yes 2 No.
+
+
+1. To add a new goods
+2. To sum up the prices of all goods.
+3. To display all goods
+
+1.
+    To enter the name of the goods
+    ENter the price of the goods
+
+2. The sum of all goods prices is #30000
+
+3. display all goods
+
 
